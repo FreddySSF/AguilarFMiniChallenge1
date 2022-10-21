@@ -2,7 +2,7 @@
 // 10-17-22
 // GitHub Upload Mini Challenge #1 Say Hello - Endpoint
 // Recreated our Mini Challenge 1 from the combine, including data validation.
-// Peer Reviewed: Elizar Garcia
+// Peer Reviewed: Elizar Garcia - This was honestly on of my favorites so far. short and simple but also unique. The code worked greatly and really pulled me into a different world. Adding the "watcher" and his banter really gave this project some style. Very good job four thumbs up sir.
 //--------------------------------------------------------------------//
     Console.Clear();
     
