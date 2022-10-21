@@ -2,7 +2,7 @@
 // 10-17-22
 // GitHub Upload Mini Challenge #1 Say Hello - Endpoint
 // Recreated our Mini Challenge 1 from the combine, including data validation.
-// Peer Reviewed: 
+// Peer Reviewed: Elizar Garcia
 //--------------------------------------------------------------------//
     Console.Clear();
     
